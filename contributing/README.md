@@ -59,13 +59,13 @@ Community tutorials are stored in Markdown files on
 [GitHub](../../community/samples/) where they can be reviewed and edited by the
 community.
 
-Please submit a Pull Request to the community sample directory under the
-Knative component that your tutorial highlights -
-[Serving](../../community/samples/serving/), [Eventing](../../community/samples/eventing/),
-or [Build](../../community/samples/build/). A reviewer will be assigned to review your
-submission. They'll work with you to ensure your submission meets the
-[style guide](DOCS-CONTRIBUTING/), but it helps if you follow it as you
-write your tutorial.
+Please submit a Pull Request to the community sample directory under the Knative
+component that your tutorial highlights - [Serving](../../community/samples/serving/), 
+[Eventing](../../community/samples/eventing/),
+or [Build](../../community/samples/build/).. A reviewer will
+be assigned to review your submission. They'll work with you to ensure your
+submission meets the [style guide](DOCS-CONTRIBUTING), but it helps if you
+follow it as you write your tutorial.
 
 ## Meetings and work groups
 
